@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Epilogue', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+#title {
+    font-size: 4rem;
+    font-size: 700;
+}
+
+#main-container {
+    border: 2px dotted blue;
+    width: 80%;
+    font-size: 18px;
+}
+
+#hero-img {
+    width: 100%;
+}
